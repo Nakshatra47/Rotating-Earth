@@ -1,5 +1,5 @@
-div::before {
-    background: url(./space.jpg) no-repeat center center/cover;
+.container::before {
+    background: url(./astronaut.jpg) no-repeat center center/cover;
     content: "";
     position: absolute;
     top: 0;
